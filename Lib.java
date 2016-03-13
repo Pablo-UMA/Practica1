@@ -17,10 +17,10 @@ public class Lib {
 
     public void metodoComunitario(){
         System.out.println("Aqui escribimos todos");
-<<<<<<< HEAD
-	System.out.println("modificado por alumno2");
-=======
-        System.out.println("Alumno 1 inserta esta sentencia");
->>>>>>> 7e9c35a35a6552481f5755918cc5c7fd294cf679
+
+	      System.out.println("modificado por alumno2 y alumno1");
+
+
+
     }
 }
